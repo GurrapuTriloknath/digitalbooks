@@ -9,5 +9,4 @@ class DigitalbooksApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
